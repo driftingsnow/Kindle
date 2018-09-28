@@ -1,0 +1,6 @@
+【介绍】一个文件夹里有两张jpg封面和一堆png图片，Kindle上打不开。于是打算把这些图片合成一个pdf，测试成功（20180928）
+【简单步骤】n张png图片 ---> n个pdf文件 ---> 1个pdf文件
+【第1步】（https://cloudconvert.com/png-to-pdf）这个网站，把很多png图片，转为很多PDF文件
+【第2步】（https://smallpdf.com/cn/merge-pdf）这个网站，把那么多PDF文件合成一个PDF文件（重命名为书名）
+【第3步】Kinde数据线连电脑 ---> U盘 ---> KINDLE ---> documents ---> 添加PDF文件
+【注意】jpg应该也行，没试
